@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+.header-content {
+    display: flex;
+    gap: 129px;
+    height: 70px;
+    align-items: center;
+}
+
+ul li a {
+    /* Dorilar */
+
+margin: 0 auto;
+width: 75px;
+height: 21px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: #222222;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+}
+
+.btn button {
+   /* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+margin: 0 auto;
+width: 189px;
+height: 47px;
+
+background: #FFFFFF;
+border: 2px solid #DE2E54;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+
+#bir {
+    background-image: url(img/img40.png);
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+
+.btn1 button {
+    /* button */
+ 
+ box-sizing: border-box;
+ 
+ /* Auto layout */
+ 
+ 
+ 
+ padding: 12px 24px;
+ 
+ margin: 0 auto;
+ width: 189px;
+ height: 47px;
+ 
+ background: #DE2E54;
+ border: 2px solid #DE2E54;
+ border-radius: 8px;
+ 
+ /* Inside auto layout */
+ flex: none;
+ order: 4;
+ flex-grow: 0;
+ margin-top: 49px;
+ 
+ }
+
+ .text1 {
+    /* Tabiiy davolash usullari yordamida kasalliklardan xalos bo’ling. */
+
+
+
+/* Big heading */
+font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+/* or 43px */
+
+color: #FFFFFF;
+
+
+ }
+
+.section-partent {
+    display: flex;
+    gap: 200px;
+    height: 533;
+    align-items: center;
+   
+}
+
+
+.text-div {
+    /* services-heading */
+
+
+/* Big heading */
+font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+/* or 43px */
+
+color: #000000;
+
+text-align: center;
+
+
+}
+
+.text-card {
+    /* Imom Termiziy Abdulloh ibn Abbos raziyallohu anhumodan rivoyat qilgan hadisda rasululloh sallallohu alayhi va sallam dedilar: «Sizlar hijoma qiladigan kunlaringizning eng yaxshisi 17, 19 va 21-kunlardir» (bu kunlar hijrij-kamariy hisobdagi oylar kunlaridir). */
+
+width: 600px;
+height: 96px;
+
+/* Body text */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+color: #444444;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+margin-top: 24px;
+
+}
+
+.card-title {
+    /* Hijoma */
+
+width: 67px;
+height: 29px;
+
+/* Smaller heading */
+font-family: 'Open Sans Condensed';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 120%;
+/* identical to box height, or 29px */
+
+color: #222222;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+    
+}
+
+
+.card-1 {
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+
+}
+
+
+.card-2 {
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+    margin-top: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
